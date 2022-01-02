@@ -1,0 +1,12 @@
+C:\Users\Umut\source\repos\RentaCar\Entities\bin\Debug\net5.0\Entities.deps.json
+C:\Users\Umut\source\repos\RentaCar\Entities\bin\Debug\net5.0\Entities.dll
+C:\Users\Umut\source\repos\RentaCar\Entities\bin\Debug\net5.0\ref\Entities.dll
+C:\Users\Umut\source\repos\RentaCar\Entities\bin\Debug\net5.0\Entities.pdb
+C:\Users\Umut\source\repos\RentaCar\Entities\obj\Debug\net5.0\Entities.csproj.AssemblyReference.cache
+C:\Users\Umut\source\repos\RentaCar\Entities\obj\Debug\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Umut\source\repos\RentaCar\Entities\obj\Debug\net5.0\Entities.AssemblyInfoInputs.cache
+C:\Users\Umut\source\repos\RentaCar\Entities\obj\Debug\net5.0\Entities.AssemblyInfo.cs
+C:\Users\Umut\source\repos\RentaCar\Entities\obj\Debug\net5.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Umut\source\repos\RentaCar\Entities\obj\Debug\net5.0\Entities.dll
+C:\Users\Umut\source\repos\RentaCar\Entities\obj\Debug\net5.0\ref\Entities.dll
+C:\Users\Umut\source\repos\RentaCar\Entities\obj\Debug\net5.0\Entities.pdb
